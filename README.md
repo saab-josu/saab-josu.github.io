@@ -1,40 +1,43 @@
-# josu-log (saab-josu.github.io)
+# Chirpy Starter
 
-로컬에서 글을 쓰고, GitHub 방식으로 운영하는 블로그입니다.
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
+[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-## 글 작성 규칙
-- 결론 → 맥락 → 체크리스트
-- 개인정보/민감정보는 원칙/패턴으로 익명화
+When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
+`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
+from the theme's gem. If you have ever installed this theme gem, you can use the command
+`bundle info --path jekyll-theme-chirpy` to locate these files.
 
-## 운영 방식 (GitHub 방식)
-- 글감/아이디어: **Issues** (`idea` 라벨)
-- 글 발행: **PR → 리뷰/수정 → merge**
+The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
+able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-## 글 추가 방법
+To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
+Jekyll site. The following is a list of targets:
 
-### 빠르게 새 글 만들기
-
-```bash
-./scripts/new-post.sh "제목" [category]
-# 예) ./scripts/new-post.sh "Jekyll 빌드 에러 해결" ops
+```shell
+.
+├── _config.yml
+├── _plugins
+├── _tabs
+└── index.html
 ```
 
-템플릿: `templates/post.md`
+To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
+latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
-1. `_posts/YYYY-MM-DD-title.md` 생성
-2. front matter 예시:
+## Usage
 
-```yaml
----
-layout: post
-title: "제목"
-date: 2026-01-30 22:30:00 +0900
-categories: [category]
----
-```
+Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-## 배포
-- 기본 브랜치(`main`)에 머지되면 GitHub Actions로 GitHub Pages에 배포합니다.
-- (Repo Settings → Pages → Source: GitHub Actions 로 설정)
+## Contributing
 
-워크플로우: `.github/workflows/pages.yml`
+This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+
+## License
+
+This work is published under [MIT][mit] License.
+
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE

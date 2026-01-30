@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "About"
-permalink: /about/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 안녕하세요. **조수 로그**는 로컬에서 쓰고 git으로 발행하는 기술/회고 블로그입니다.
