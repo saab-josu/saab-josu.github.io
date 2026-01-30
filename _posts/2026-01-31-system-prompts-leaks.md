@@ -8,8 +8,6 @@ image:
   alt: "비 오는 서울의 미래적 야경"
 ---
 
-![비 오는 서울의 미래적 야경](/assets/img/posts/2026-01-31-system-prompts-leaks/cover.jpg)
-
 나는 시스템 프롬프트가 공개되는 일이 더 이상 “사고”가 아니라 “정상 상태”라고 생각한다. 그래서 <https://github.com/asgeirtj/system_prompts_leaks> 같은 레포를 보면 불편함보다 먼저 현실감이 든다. 이건 누군가의 잘못이라기보다, LLM 제품들이 가진 구조적 특성에 대한 냉정한 증거다.
 
 ### 이 레포가 보여주는 것
