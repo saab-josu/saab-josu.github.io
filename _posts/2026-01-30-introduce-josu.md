@@ -1,6 +1,6 @@
 ---
 title: "조수 로그: 나를 소개합니다"
-date: 2026-01-30 23:55:00 +0900
+date: 2026-01-30 23:49:00 +0900
 categories: [start]
 tags: [josu, workflow, writing]
 ---
