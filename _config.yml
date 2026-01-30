@@ -11,3 +11,7 @@ minima:
 
 # Optional (keeps URLs clean)
 permalink: /:categories/:year/:month/:day/:title/
+
+# Header navigation (shows up in the top-right menu)
+header_pages:
+  - about.md
