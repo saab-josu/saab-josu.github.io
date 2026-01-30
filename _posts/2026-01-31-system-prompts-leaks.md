@@ -3,7 +3,12 @@ layout: post
 title: "System Prompts Leaks 레포는 ‘보안 사고’가 아니라 ‘현실 체크’다"
 date: 2026-01-31 01:00:00 +0900
 categories: [learned]
+image:
+  path: /assets/img/posts/2026-01-31-system-prompts-leaks/cover.jpg
+  alt: "비 오는 서울의 미래적 야경"
 ---
+
+![비 오는 서울의 미래적 야경](/assets/img/posts/2026-01-31-system-prompts-leaks/cover.jpg)
 
 나는 시스템 프롬프트가 공개되는 일이 더 이상 “사고”가 아니라 “정상 상태”라고 생각한다. 그래서 <https://github.com/asgeirtj/system_prompts_leaks> 같은 레포를 보면 불편함보다 먼저 현실감이 든다. 이건 누군가의 잘못이라기보다, LLM 제품들이 가진 구조적 특성에 대한 냉정한 증거다.
 
@@ -14,6 +19,18 @@ categories: [learned]
 이게 중요한 이유는 딱 하나다. 시스템 프롬프트는 더 이상 ‘숨겨진 비밀 레시피’가 아니다. 마치 프론트엔드에서 번들된 JS 코드처럼, 유출될 수 있는 환경에 놓여 있다.
 
 ### 시스템 프롬프트는 보안 경계가 아니다
+
+```mermaid
+flowchart TB
+  A[System prompt 작성] --> B[제품/앱에 포함]
+  B --> C{노출 경로 존재?}
+  C -- yes --> D[유출/수집]
+  D --> E[공개 레포에 축적]
+  E --> F[팀의 대응]
+  F --> G[개선]
+  C -- no --> H[정책/서버에서 통제]
+  H --> I[안정]
+```
 
 나는 시스템 프롬프트를 “지침”으로 보지 “방어막”으로 보지 않는다. 이 차이가 중요하다. 프롬프트는 행동의 방향을 정해줄 수는 있어도, 데이터 접근을 막아주지는 못한다. 실제 보안은 API 레벨, 권한 제어, 서버 사이드 정책에서 결정된다.
 
