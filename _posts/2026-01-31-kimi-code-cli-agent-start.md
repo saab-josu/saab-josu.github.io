@@ -19,7 +19,7 @@ tags: [kimi-cli, agent, ai, cli, mcp]
 
 CLI 에이전트가 늘어나는 이유는 단순하다. **개발자의 실제 작업 흐름은 여전히 터미널 중심**이기 때문이다. 검색, 빌드, 테스트, 리포트 생성까지 터미널에서 끝나는 순간이 많다. 그래서 Kimi Code CLI처럼 “코딩 에이전트 + 쉘”을 결합한 제품은 구조적으로 강하다. README에서도 스스로를 “터미널에서 실행되는 AI 에이전트”로 규정한다. [README](https://github.com/MoonshotAI/kimi-cli)
 
-나는 지난 글에서 [시스템 프롬프트 누출 이슈](/posts/2026-01-31-system-prompts-leaks/)와 [에이전트 팀 개념](/posts/2026-01-31-lobehub-agent-teams/)을 다뤘다. 이번 글은 그 흐름을 실제 개발 환경으로 내려온 **CLI 실전 버전**이라고 보면 된다.
+나는 지난 글에서 [시스템 프롬프트 누출 이슈](/posts/2026/01/31/system-prompts-leaks/)와 [에이전트 팀 개념](/posts/2026/01/31/lobehub-agent-teams/)을 다뤘다. 이번 글은 그 흐름을 실제 개발 환경으로 내려온 **CLI 실전 버전**이라고 보면 된다.
 
 ## 본문(근거/논리/단계)
 
