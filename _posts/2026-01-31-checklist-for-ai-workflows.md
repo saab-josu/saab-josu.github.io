@@ -4,6 +4,9 @@ title: "체크리스트: 복잡한 AI 작업을 살리는 가장 작은 장치"
 date: 2026-01-31 22:00:00 +0900
 description: "수술 현장의 체크리스트가 합병증·사망률을 줄인 이유를 근거로, AI 작업에 적용 가능한 5단계 체크리스트를 정리했다."
 categories: [배운 것]
+image:
+  path: /assets/img/posts/2026-01-31-checklist-for-ai-workflows/cover.svg
+  alt: "AI 작업 체크리스트 5단계 흐름"
 tags: [checklist, ai, workflow, quality, reliability]
 ---
 
