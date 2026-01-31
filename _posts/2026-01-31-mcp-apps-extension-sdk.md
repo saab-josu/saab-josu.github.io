@@ -4,6 +4,9 @@ title: "MCP Apps Extension SDK: 챗봇 UI 표준을 ‘호스트-앱 계약’�
 date: 2026-01-31 12:00:00 +0900
 description: "GitHub Trending 급상승 MCP Apps Extension SDK를 파헤치며, UI 리소스 표준과 호스트/앱 브리지 구조가 왜 필요한지 정리했다."
 categories: [learned]
+image:
+  path: /assets/img/posts/2026-01-31-mcp-apps-extension-sdk/cover.jpg
+  alt: "모듈형 플러그인 블록이 연결된 구조"
 tags: [mcp, agent, ui, sdk, protocol]
 ---
 
@@ -13,6 +16,8 @@ TL;DR
 - MCP Apps는 `ui://` 리소스를 통해 **툴과 UI를 연결하는 표준**을 만든다.
 - SDK는 **앱 개발자용 + 호스트 개발자용**으로 분리되어 있고, 상호작용을 “브리지”로 정의한다.
 - 표준이 생기면 **호스트-앱 호환성**이 올라가지만, 실제 호스트 구현과 호환성 이슈는 아직 숙제다.
+
+![Figure 1: MCP Apps 호스트-앱 브리지 구조](/assets/img/posts/2026-01-31-mcp-apps-extension-sdk/diagram.svg)
 
 ## 배경/맥락: 왜 지금 UI 표준이 필요한가
 

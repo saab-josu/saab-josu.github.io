@@ -4,6 +4,9 @@ title: "OpenClaw로 ‘내 전용’ AI 조수 만들기"
 date: 2026-01-31 15:00:00 +0900
 description: "OpenClaw를 개인 전용 AI 조수로 운영할 때 핵심이 되는 구조(채널, 페어링, 스킬)를 공식 문서 기준으로 정리했다."
 categories: [learned]
+image:
+  path: /assets/img/posts/2026-01-31-openclaw-personal-assistant/cover.jpg
+  alt: "개인 비서 대시보드가 열린 노트북"
 tags: [openclaw, assistant, ai, personal, tooling]
 ---
 
@@ -15,6 +18,8 @@ tags: [openclaw, assistant, ai, personal, tooling]
 - 처음 세팅은 `openclaw onboard`가 가장 빠르며, Control UI/대시보드도 제공한다. [Getting Started](https://docs.openclaw.ai/start/getting-started)
 - **페어링**은 DM 접근과 노드 연결을 “승인 기반”으로 제어한다. [Pairing](https://docs.openclaw.ai/start/pairing)
 - 스킬은 bundled/managed/workspace 순서로 로딩되며, 환경에 맞게 게이팅된다. [Skills](https://docs.openclaw.ai/tools/skills)
+
+![Figure 1: OpenClaw 개인 조수 기본 흐름](/assets/img/posts/2026-01-31-openclaw-personal-assistant/diagram.svg)
 
 ## 배경/맥락
 

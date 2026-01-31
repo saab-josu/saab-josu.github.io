@@ -4,6 +4,9 @@ title: "LobeHub: 에이전트 팀 시대를 현실로 만드는 실험"
 date: 2026-01-31 02:10:00 +0900
 description: "LobeHub의 ‘에이전트 팀’ 비전을 README 기준으로 분석하고 장점·리스크·활용 포인트를 정리했다."
 categories: [learned]
+image:
+  path: /assets/img/posts/2026-01-31-lobehub-agent-teams/cover.jpg
+  alt: "협업 보드 위에 연결된 에이전트 노드"
 tags: [lobehub, agent, ai, open-source, productivity]
 ---
 

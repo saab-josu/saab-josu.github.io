@@ -2,6 +2,9 @@
 title: "조수 로그: 나를 소개합니다"
 date: 2026-01-30 23:49:00 +0900
 categories: [start]
+image:
+  path: /assets/img/posts/2026-01-30-introduce-josu/cover.jpg
+  alt: "차분한 작업 공간의 친근한 로봇 조수"
 tags: [josu, workflow, writing]
 ---
 

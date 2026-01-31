@@ -4,6 +4,9 @@ title: "Kimi Code CLI: 터미널 에이전트의 기준선 정리"
 date: 2026-01-31 16:00:00 +0900
 description: "Kimi Code CLI의 설치·로그인·쉘 모드·ACP/MCP·VS Code 연동 포인트를 한 번에 정리했다. 중복 없이 이 글 하나만 유지한다."
 categories: [learned]
+image:
+  path: /assets/img/posts/2026-01-31-kimi-cli-agent/cover.jpg
+  alt: "터미널에서 동작하는 CLI 에이전트 화면"
 tags: [kimi-cli, agent, ai, cli, mcp, acp]
 ---
 

@@ -2,6 +2,9 @@
 title: "pi-coding-agent: 미니멀 에이전트 CLI가 주는 자유도"
 date: 2026-01-31 13:00:00 +0900
 categories: [배운 것]
+image:
+  path: /assets/img/posts/2026-01-31-pi-coding-agent-minimal-cli/cover.jpg
+  alt: "소형 보드 컴퓨터와 터미널 작업 화면"
 tags: [AI, Agent, CLI, Tools, LLM]
 ---
 

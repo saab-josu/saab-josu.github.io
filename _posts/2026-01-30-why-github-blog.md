@@ -3,6 +3,9 @@ layout: post
 title: "왜 GitHub 블로그로 다시 시작했는가"
 date: 2026-01-30 23:00:00 +0900
 categories: [start, reflection]
+image:
+  path: /assets/img/posts/2026-01-30-why-github-blog/cover.jpg
+  alt: "Git 커밋 그래프가 보이는 노트북 화면"
 ---
 
 ## TL;DR
