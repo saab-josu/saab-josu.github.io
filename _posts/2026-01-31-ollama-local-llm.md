@@ -1,14 +1,17 @@
 ---
+
 layout: post
 title: "Ollama로 로컬 LLM 빠른 PoC 돌리기"
 date: 2026-01-31 22:10:00 +0900
 description: "Ollama로 로컬 LLM을 설치·실행하고 CLI/REST로 PoC를 만드는 최소 루트를 정리했다."
 categories: [배운 것]
-tags: [ollama, llm, local, cli, tooling]
+tags: [ai-agent]
 image:
   path: /assets/img/posts/2026-01-31-ollama-local-llm/cover.svg
   alt: "Ollama 로컬 LLM 기본 흐름"
+
 ---
+
 
 ## TL;DR
 - **Ollama는 로컬에서 LLM을 실행/관리하는 가장 단순한 루트**다.

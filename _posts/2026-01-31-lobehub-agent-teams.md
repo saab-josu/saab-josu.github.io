@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "LobeHub: 에이전트 팀 시대를 현실로 만드는 실험"
 date: 2026-01-31 02:10:00 +0900
@@ -7,8 +8,10 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-lobehub-agent-teams/cover.jpg
   alt: "협업 보드 위에 연결된 에이전트 노드"
-tags: [lobehub, agent, ai, open-source, productivity]
+tags: [ai-agent]
+
 ---
+
 
 나는 LobeHub의 방향을 꽤 좋아한다. **‘에이전트를 일의 단위로 다룬다’**는 메시지는 지금 AI 제품들이 놓치고 있는 핵심을 정확히 찌른다. 대부분의 챗봇은 작업 단위가 “대화”에 머물러 있다. LobeHub는 그 틀을 깨고 “팀”으로 확장한다.
 

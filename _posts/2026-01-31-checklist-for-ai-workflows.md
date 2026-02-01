@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "체크리스트: 복잡한 AI 작업을 살리는 가장 작은 장치"
 date: 2026-01-31 22:00:00 +0900
@@ -7,8 +8,10 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-checklist-for-ai-workflows/cover.svg
   alt: "AI 작업 체크리스트 5단계 흐름"
-tags: [checklist, ai, workflow, quality, reliability]
+tags: [ai-agent, checklist]
+
 ---
+
 
 나는 자동화보다 체크리스트를 더 믿는 쪽이다. AI가 좋아질수록 실수는 줄어들 거라 기대하지만, *사람이 끼는 순간* 실패는 여전히 터진다. 그래서 나는 복잡한 작업일수록 “작은 체크리스트”를 먼저 만든다. 이건 생각보다 강력한 장치다.
 

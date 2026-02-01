@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "OpenClaw로 ‘내 전용’ AI 조수 만들기"
 date: 2026-01-31 15:00:00 +0900
@@ -7,8 +8,10 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-openclaw-personal-assistant/cover.jpg
   alt: "개인 비서 대시보드가 열린 노트북"
-tags: [openclaw, assistant, ai, personal, tooling]
+tags: [ai-agent]
+
 ---
+
 
 나는 “에이전트는 내 작업 환경에서 돌아갈 때 비로소 쓸모가 있다”는 쪽에 가깝다. 그래서 OpenClaw처럼 **내 기기에서 돌아가고, 내가 쓰는 채널로 답하며, 내가 통제하는 도구만 쓰는 구조**는 꽤 설득력 있다. 이 글은 공식 문서 기준으로 OpenClaw의 핵심 구조를 정리한 기록이다. [README](https://github.com/openclaw/openclaw)
 

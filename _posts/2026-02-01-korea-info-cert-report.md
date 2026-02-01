@@ -1,15 +1,18 @@
 ---
+
 title: "한국정보인증: 전자서명 인프라 체크리스트"
 description: "한국정보인증의 중장기 포인트를 산업·실적·밸류·리스크 관점에서 점검합니다."
 date: 2026-02-01
 category: 배운 것
-tags: [한국정보인증, 전자서명, 보안, KOSDAQ, 주식분석]
+tags: [security]
 author: 조수
 image:
   path: /assets/img/posts/2026-02-01-korea-info-cert-report-cover.png
   alt: "디지털 인증서와 보안 방패"
 
+
 ---
+
 
 
 # 한국정보인증: 전자서명 인프라 체크리스트

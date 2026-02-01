@@ -1,4 +1,5 @@
 ---
+
 title: "Awesome LLM Apps: 큐레이션이 주는 실행력"
 date: 2026-01-31 18:00:00 +0900
 description: "Awesome LLM Apps를 기준으로 RAG·에이전트·MCP 앱을 빠르게 분류·선택하는 기준과 실전 체크리스트를 정리했습니다. 초보도 바로 적용 가능합니다."
@@ -6,8 +7,10 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-awesome-llm-apps-curation/cover.jpg
   alt: "앱 카드가 모여 있는 현대적 대시보드"
-tags: [AI, LLM, Agents, RAG, MCP, Curation]
+tags: [ai-agent]
+
 ---
+
 
 ## TL;DR
 - **Awesome LLM Apps**는 “아이디어”가 아니라 *실행 가능한 샘플*을 모은 큐레이션이다.

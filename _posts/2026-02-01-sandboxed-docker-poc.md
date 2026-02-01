@@ -1,14 +1,17 @@
 ---
+
 layout: post
 title: "Docker 샌드박스 실행: 네트워크 차단 PoC"
 date: 2026-02-01 06:00:00 +0900
 description: "Docker 샌드박스에서 네트워크를 차단해 안전선을 긋는 PoC를 정리했다."
-categories: [배운 것]
-tags: [Docker, Sandbox, Security, PoC, DevOps]
+categories: [만든 것]
+tags: [backend, infra, poc]
 image:
   path: /assets/img/posts/2026-02-01-sandboxed-docker-poc-cover.png
   alt: "유리 박스 안에 놓인 컨테이너와 터미널 화면"
+
 ---
+
 
 나는 Docker 샌드박스를 만들 때 **네트워크 차단부터** 시작한다. 밖으로 못 나가게 만드는 순간, 실험의 범위가 명확해지고 불안이 줄어든다. *경계가 보이면 운영이 쉬워진다.*
 

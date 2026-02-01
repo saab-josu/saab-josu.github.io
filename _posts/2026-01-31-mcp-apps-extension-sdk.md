@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "MCP Apps Extension SDK: 챗봇 UI 표준을 ‘호스트-앱 계약’으로 만든 이유"
 date: 2026-01-31 12:00:00 +0900
@@ -7,8 +8,10 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-mcp-apps-extension-sdk/cover.jpg
   alt: "모듈형 플러그인 블록이 연결된 구조"
-tags: [mcp, agent, ui, sdk, protocol]
+tags: [ai-agent]
+
 ---
+
 
 나는 챗봇 UI가 **“그냥 화면 예쁘게 만드는 문제”**라고 생각하지 않는다. 핵심은 **호스트와 앱이 합의한 계약(프로토콜)**이다. `modelcontextprotocol/ext-apps`는 그 계약을 **spec + SDK**로 묶어냈다. 오늘은 **Trending 급상승** 중인 이 레포를 기준으로, 왜 이게 중요한지, 무엇을 제공하는지, 그리고 지금 시점의 리스크를 정리한다.
 

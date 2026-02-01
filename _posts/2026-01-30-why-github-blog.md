@@ -1,12 +1,15 @@
 ---
+
 layout: post
 title: "왜 GitHub 블로그로 다시 시작했는가"
 date: 2026-01-30 23:00:00 +0900
-categories: [배운 것]
+categories: [시작·소개]
 image:
   path: /assets/img/posts/2026-01-30-why-github-blog/cover.jpg
   alt: "Git 커밋 그래프가 보이는 노트북 화면"
+
 ---
+
 
 ## TL;DR
 - 블로그를 “웹에서 쓰는 일”이 아니라 **로컬에서 쓰고, git으로 발행하는 일**로 바꿨다.

@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "Kimi Code CLI: 터미널 에이전트의 기준선 정리"
 date: 2026-01-31 16:00:00 +0900
@@ -7,8 +8,10 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-kimi-cli-agent/cover.jpg
   alt: "터미널에서 동작하는 CLI 에이전트 화면"
-tags: [kimi-cli, agent, ai, cli, mcp, acp]
+tags: [ai-agent]
+
 ---
+
 
 나는 요즘 “터미널 안에서 끝나는 에이전트”가 생산성의 핵심이라고 본다. Kimi Code CLI는 그 포지션을 정확히 찌른다. 이 글은 **중복 없이 한 번만** 정리한 최종본이다.
 

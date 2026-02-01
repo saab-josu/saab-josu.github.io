@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "System Prompts Leaks 레포는 ‘보안 사고’가 아니라 ‘현실 체크’다"
 date: 2026-01-31 01:00:00 +0900
@@ -6,7 +7,9 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-system-prompts-leaks/cover.jpg
   alt: "비 오는 서울의 미래적 야경"
+
 ---
+
 
 나는 시스템 프롬프트가 공개되는 일이 더 이상 “사고”가 아니라 “정상 상태”라고 생각한다. 그래서 <https://github.com/asgeirtj/system_prompts_leaks> 같은 레포를 보면 불편함보다 먼저 현실감이 든다. 이건 누군가의 잘못이라기보다, LLM 제품들이 가진 구조적 특성에 대한 냉정한 증거다.
 

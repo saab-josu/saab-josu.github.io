@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "uv로 Python 설치 속도 올리기: 10초 체험"
 date: 2026-01-31 19:00:00 +0900
@@ -7,8 +8,10 @@ categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-uv-fast-python-install/cover.jpg
   alt: "빠른 파이썬 패키지 설치를 상징하는 이미지"
-tags: [uv, python, packaging, venv, workflow]
+tags: [note, tutorial]
+
 ---
+
 
 나는 요즘 **Python 패키지 설치 속도**가 체감 성능을 좌우한다고 본다. 설치가 느리면 실험이 줄고, 실험이 줄면 결과도 늦어진다. 그래서 오늘은 *uv*를 직접 실행해 보고 “왜 빠른지”를 체감하는 데 집중했다.
 

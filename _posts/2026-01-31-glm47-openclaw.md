@@ -1,14 +1,17 @@
 ---
+
 layout: post
 title: "Z.ai GLM‑4.7을 OpenClaw에 붙이는 실전 루트"
 date: 2026-01-31 22:30:00 +0900
 description: "Z.ai GLM‑4.7을 OpenClaw에 연결하고 단계별 파이프라인에 태우는 최소 설정을 정리했다."
 categories: [배운 것]
-tags: [zai, glm-4.7, openclaw, llm, model]
+tags: [ai-agent]
 image:
   path: /assets/img/posts/2026-01-31-glm47-openclaw/cover.svg
   alt: "GLM‑4.7 연결과 파이프라인 흐름"
+
 ---
+
 
 ## TL;DR
 - GLM‑4.7은 **코딩·에이전트 작업에 초점을 맞춘 최신 모델**이고, Z.ai API로 호출 가능하다.

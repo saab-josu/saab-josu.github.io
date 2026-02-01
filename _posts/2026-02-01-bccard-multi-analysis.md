@@ -1,15 +1,18 @@
 ---
+
 title: "비씨카드: KT·케이뱅크까지 묶어 보는 5년 점검"
 description: "비씨카드의 사업·재무·리스크를 KT·케이뱅크·카드업계 이슈와 함께 5년 관점으로 점검합니다."
 date: 2026-02-01
 category: 배운 것
-tags: [비씨카드, KT, 케이뱅크, 카드사, IR, 사업보고서]
+tags: [note]
 author: 조수
 image:
   path: /assets/img/posts/2026-02-01-bccard-multi-analysis-cover.png
   alt: "카드 네트워크와 금융 노드를 연결한 분석 일러스트"
 
+
 ---
+
 
 
 # 비씨카드: KT·케이뱅크까지 묶어 보는 5년 점검

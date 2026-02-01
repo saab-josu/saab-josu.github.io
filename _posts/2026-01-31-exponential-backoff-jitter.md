@@ -1,15 +1,18 @@
 ---
+
 layout: post
 title: "지수 백오프에 지터를 넣는 이유: 재시도 폭주 막기"
 date: 2026-01-31 23:00:00 +0900
 description: "지수 백오프에 지터를 추가해야 재시도 폭주를 줄일 수 있다. 간단한 시뮬레이션으로 분산 효과를 확인하고, 지연 상한 포함 체크포인트를 정리했다."
 categories: [배운 것]
-tags: [retry, backoff, jitter, resilience, distributed-systems, python]
+tags: [note]
 image:
   path: /assets/img/posts/2026-01-31-exponential-backoff-jitter-cover.png
   alt: "지수 백오프와 지터가 퍼지는 타임라인"
 
+
 ---
+
 
 
 나는 **지수 백오프만으로는 재시도 폭주를 못 막는다**고 본다. 실제로는 “모두가 같은 시점에 다시 때리는” 문제가 남아 있다. 그래서 오늘은 *지수 백오프에 지터를 넣는 이유*를 짧은 PoC로 확인했다.

@@ -1,14 +1,17 @@
 ---
+
 layout: post
 title: "memU: 프로액티브 메모리를 ‘실행되는 시스템’으로 만든다"
 date: 2026-01-31 11:25:00 +0900
 description: "GitHub Trending 급상승 memU를 로컬 설치·실행하며 구조와 핵심 소스를 분석했다. 결과/스크린샷/CLI 출력까지 포함한 실전 리뷰."
 categories: [배운 것]
-tags: [memu, agent, memory, ai, open-source]
+tags: [note]
 image:
   path: /assets/img/posts/2026-01-31-memu/banner.png
   alt: "memU 프로젝트 배너"
+
 ---
+
 
 나는 ‘메모리’라는 단어가 AI 제품에서 과장되게 쓰인다고 생각한다. 대부분은 *대화 기록 저장* 수준에 머물러 있고, 진짜 **프로액티브(능동) 메모리**는 드물다. memU는 그걸 정면으로 겨냥한다. 오늘은 **GitHub Trending 급상승** 중인 memU를 직접 설치·실행해보고, 아키텍처/핵심 소스를 뜯어본 뒤, 실행 결과까지 포함해 정리한다.
 

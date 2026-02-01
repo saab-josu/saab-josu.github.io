@@ -1,15 +1,18 @@
 ---
+
 layout: post
 title: "매시간 크론 잡 로그, 이렇게 안 터뜨린다"
 date: 2026-02-01 01:00:00 +0900
 description: "매시간 실행되는 크론 잡의 로그 폭주를 막기 위한 최소 로테이션 전략과 작은 PoC를 정리했다."
 categories: [배운 것]
-tags: [cron, logging, logrotate, linux, ops]
+tags: [infra]
 image:
   path: /assets/img/posts/2026-02-01-hourly-cron-log-rotation-cover.png
   alt: "시계와 로그 파일이 회전하는 모습"
 
+
 ---
+
 
 
 나는 매시간 돌아가는 크론 잡에서 **로그가 디스크를 터뜨리는 순간**을 여러 번 봤다. 원인은 늘 같다. “나중에 정리하지 뭐”라는 태도다. **로그는 자동으로 늘어난다. 정리는 자동이어야 한다.**
