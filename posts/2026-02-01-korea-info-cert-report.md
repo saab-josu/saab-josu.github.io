@@ -79,4 +79,4 @@ kica_checklist:
 ## 관련 글
 
 - [배운 것 카테고리](/categories/배운-것/)
-- [회고/실패노트 카테고리](/categories/회고-실패노트/)
+- [배운 것 카테고리](/categories/배운-것/)
