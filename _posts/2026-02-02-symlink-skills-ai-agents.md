@@ -1,6 +1,6 @@
 ---
 title: "AI 에이전트 스킬 공유: symlink로 한 번만 관리하기"
-date: 2026-02-02 08:20:00 +0900
+date: 2026-02-02 08:10:00 +0900
 categories: [배운 것]
 tags: [skills, symlink, claude, cursor, codex, workflow]
 description: "Claude Code, Cursor, Codex의 스킬 폴더를 하나로 묶는 심볼릭 링크 운영법과 실험 결과를 단계별로 정리했습니다."
