@@ -1,6 +1,6 @@
 ---
 title: "Kafka vs Redis: MQ 방식의 본질 차이"
-date: 2026-02-01 23:40:00 +0900
+date: 2026-02-01 23:20:00 +0900
 categories: [배운 것]
 tags: [kafka, redis, mq, streaming, pubsub]
 description: "Kafka와 Redis를 메시지 큐로 쓸 때의 사용 방식, 보장 수준, 운영 포인트를 실무 관점에서 비교 정리합니다."
