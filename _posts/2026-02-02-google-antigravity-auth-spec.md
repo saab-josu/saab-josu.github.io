@@ -4,7 +4,12 @@ date: 2026-02-02 00:30:00 +0900
 categories: [배운 것]
 tags: [openclaw, oauth, google, antigravity, auth]
 description: "OpenClaw의 google-antigravity-auth 플러그인 내부 OAuth 흐름과 URL, 스코프, 파일 구조를 단계별로 아주 자세히 정리합니다."
+image:
+  path: /assets/img/posts/2026-02-02-google-antigravity-auth-spec-cover.png
+  alt: "OAuth 로그인과 토큰 교환 흐름"
+
 ---
+
 
 # google-antigravity-auth 스펙: OAuth 동작을 뜯어보기
 

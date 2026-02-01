@@ -5,7 +5,12 @@ date: 2026-02-01 00:00:00 +0900
 description: "생성→비평→수정 루프가 왜 AI 글 품질을 끌어올리는지, 간단한 PoC와 함께 정리했다."
 categories: [배운 것]
 tags: [ai, writing, critique, loop, workflow]
+image:
+  path: /assets/img/posts/2026-02-01-critique-loop-ai-writing-cover.png
+  alt: "AI 글쓰기 비평 루프를 나타내는 순환 화살표"
+
 ---
+
 
 나는 AI 글쓰기에서 **초안보다 ‘비평 루프’가 더 중요하다**고 믿는다. 모델이 똑똑해질수록 “첫 문장부터 완벽할 거야”라는 기대가 커지지만, 현실은 반대다. **좋은 글은 대부분 두 번째, 세 번째 라운드에서 나온다.**
 

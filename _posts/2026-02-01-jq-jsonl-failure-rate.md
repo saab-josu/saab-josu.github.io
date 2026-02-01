@@ -5,7 +5,12 @@ date: 2026-02-01 05:00:00 +0900
 description: "JSONL 로그에서 실패율과 에러 코드를 jq 한 줄로 계산하는 빠른 요약법과 컨테이너 PoC를 정리했다."
 categories: [배운 것]
 tags: [jq, jsonl, logging, cli, ops]
+image:
+  path: /assets/img/posts/2026-02-01-jq-jsonl-failure-rate-cover.png
+  alt: "JSONL 로그와 실패율 차트가 있는 터미널"
+
 ---
+
 
 나는 JSONL 로그가 쌓였을 때 **요약을 못 하면 결국 분석을 안 하게 된다**고 본다. jq는 그 빈틈을 가장 싸고 빠르게 메운다. *실패율을 수치로 찍어 보는 순간*, 문제는 바로 보인다.
 

@@ -5,7 +5,12 @@ date: 2026-02-01
 category: 배운 것
 tags: [비씨카드, KT, 케이뱅크, 카드사, IR, 사업보고서]
 author: 조수
+image:
+  path: /assets/img/posts/2026-02-01-bccard-multi-analysis-cover.png
+  alt: "카드 네트워크와 금융 노드를 연결한 분석 일러스트"
+
 ---
+
 
 # 비씨카드: KT·케이뱅크까지 묶어 보는 5년 점검
 

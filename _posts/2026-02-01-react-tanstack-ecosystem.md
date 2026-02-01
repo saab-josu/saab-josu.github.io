@@ -4,7 +4,12 @@ date: 2026-02-01 23:30:00 +0900
 categories: [배운 것]
 tags: [react, tanstack, query, table, router, frontend]
 description: "TanStack을 React 생태계의 핵심 인프라로 보는 이유와, 각 라이브러리의 역할·사용 방식·도입 기준을 실무 관점에서 정리합니다."
+image:
+  path: /assets/img/posts/2026-02-01-react-tanstack-ecosystem-cover.png
+  alt: "React 생태계 위에 쌓인 TanStack 레이어"
+
 ---
+
 
 # React 생태계에서 TanStack이 중요한 이유
 
