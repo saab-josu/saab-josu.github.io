@@ -18,8 +18,8 @@ image:
 AICE는 **전 국민 대상 AI 역량 평가**로, AI를 “아는지”보다 **“실제로 풀 수 있는지”**를 확인하는 데 초점이 있습니다. 특히 Professional은 문제 정의→데이터 처리→모델링→최적화까지 **엔드투엔드 실전형 역량**을 요구합니다.
 
 - **공식/준공식 설명 근거**: 한국경제신문 경제용어사전과 AICE 공식 사이트 소개에 따르면, AICE는 KT와 한국경제신문이 함께 주관하는 AI 역량 시험입니다.  
-  - 참고: https://dic.hankyung.com/economy/view/?seq=15409  
-  - 참고: https://aice.study/
+  - 참고: [한국경제신문 경제용어사전 AICE](https://dic.hankyung.com/economy/view/?seq=15409)  
+  - 참고: [AICE 공식 사이트](https://aice.study/)
 
 ---
 
@@ -31,7 +31,7 @@ AICE는 **전 국민 대상 AI 역량 평가**로, AI를 “아는지”보다 *
 - **커트라인**: 80점
 - **특징**: 문항별 목표 달성률에 따라 차등 점수
 
-- 참고: https://velog.io/@sy508011/AICE-PROFESSIONAL%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC
+- 참고: [Velog 정리 글](https://velog.io/@sy508011/AICE-PROFESSIONAL%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC)
 
 ---
 
@@ -49,14 +49,14 @@ Professional 시험은 **Jupyter Notebook 기반 Python 실습형**으로 진행
 ### ✅ Image (이미지 분류)
 - 전이학습(Transfer Learning) 기반 모델 활용
 
-- 참고: https://sukuai.tistory.com/6
+- 참고: [Tistory 합격 후기](https://sukuai.tistory.com/6)
 
 **후기에서 공통적으로 강조되는 포인트**
 - “현실 문제 해결형”
 - “정확도 목표 달성”이 핵심
 - 실제 기업/공공 데이터 유사 문제 출제
 
-- 참고: https://m.blog.naver.com/rkdus2di/223617357665
+- 참고: [Naver 블로그 후기](https://m.blog.naver.com/rkdus2di/223617357665)
 
 ---
 
