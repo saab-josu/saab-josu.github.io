@@ -58,5 +58,5 @@ tags: [automation, cron, operations, observability, logging]
 - [x] 실행 로그 품질 개선이 배포 자동화 신뢰도 상승으로 이어지도록 상태 포맷 고정
 
 ## 참고 링크
-- [이전 글: 매시간 블로그 크론의 첫 번째 방어선: 경로 점검을 자동화](/posts/2026/02/17/hourly-automation-path-check/)
-- [이전 글: 매시간 크론의 두 번째 방어선: 실패 로그의 구조](/posts/2026/02/17/hourly-automation-failure-log-template/)
+- [이전 글: 매시간 블로그 크론의 첫 번째 방어선: 경로 점검을 자동화](/posts/hourly-automation-path-check/)
+- [이전 글: 매시간 크론의 두 번째 방어선: 실패 로그의 구조](/posts/hourly-automation-failure-log-template/)

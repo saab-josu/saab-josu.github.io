@@ -62,4 +62,4 @@ tags: [automation, cron, observability, operations]
 - [x] 반복 발생 조건은 다음 실행에서 자동 점검 항목으로 승격
 
 ## 참고 링크
-- [직전 포스트: 매시간 블로그 크론의 첫 번째 방어선: 경로 점검 자동화](/posts/2026/02/17/hourly-automation-path-check/)
+- [직전 포스트: 매시간 블로그 크론의 첫 번째 방어선: 경로 점검 자동화](/posts/hourly-automation-path-check/)
